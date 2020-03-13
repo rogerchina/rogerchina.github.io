@@ -1,3 +1,8 @@
+/*!
+ * BY Blog v1.7.0 (http://rogerchina.github.io)
+ * Copyright 2020 <yong_liang_zhang@163.com>
+ */
+
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
@@ -629,7 +634,6 @@ pre code {
   font-family: 'Lora', 'Times New Roman', serif;
   color: #808080;
   font-size: 16px;
-  font-style: italic;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
@@ -656,7 +660,6 @@ pre code {
 }
 .post-content-preview {
   font-size: 13px;
-  font-style: italic;
   color: #a3a3a3;
 }
 .post-content-preview:hover {

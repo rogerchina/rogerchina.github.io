@@ -33,3 +33,8 @@ Temporary Items
 
 # debug file
 _site
+
+# Node Muodules
+node_modules
+.jekyll-cache
+.jekyll-metadata
